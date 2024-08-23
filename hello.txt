@@ -1,4 +1,4 @@
-Olá Git!
+Olá Git!git rm --
 
 
 
